@@ -4,8 +4,8 @@ Content-Type: application/json
 
 {
   "name": "Isabella Walker",
-  "email": "isabella.walker@gmail.com",
-  "address": "789 Willow St, main street",
-  "dateOfBirth": "1987-10-17"
+  "email": "isabellawalker@gmail.com",
+  "address": "789 Willow St, Main Street",
+  "dateOfBirth": "1989-10-17"
 }
 ###

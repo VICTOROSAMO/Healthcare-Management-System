@@ -3,8 +3,8 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "Henry Maxwell",
-  "email": "henry2@yahoo.com",
+  "name": "Hex Maxwell with billing",
+  "email": "hex_billing@yahoo.com",
   "address": "127 main street",
   "dateOfBirth": "1995-07-12",
   "registeredDate": "2019-02-18"
